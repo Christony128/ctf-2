@@ -73,7 +73,7 @@ export default function Home() {
 
       <div>
         <h2 style={{ marginBottom: "10px" }}>File Viewer</h2>
-        <p style={{ fontSize: "13px" }}>Enter filename to view: (welcome.txt, credentials.txt, credits.txt)</p>
+        <p style={{ fontSize: "13px" }}>Enter filename to view: (welcome.txt, credentials.txt, changelog.txt)</p>
 
         <input
           placeholder="filename.txt"

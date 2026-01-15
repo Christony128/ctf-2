@@ -1,0 +1,43 @@
+v1.0
+Created site
+
+v1.1
+Separated user permissions from admin permissions
+
+v1.2
+Json web token based authentication implemented
+
+v1.3
+Password hashing using bcrypt
+
+v1.4
+Initialised github repository
+
+v1.5
+Bug fixes related to authentication
+
+v1.6
+Deployment using vercel
+
+v1.7
+Deployment bug fixes and error handling
+
+v1.8
+More user friendly ux
+
+v1.9
+Proper Deployment
+
+v2.0
+File search system for easy user navigation
+
+Changes schedules for v2.1
+Search Engine Optimisation using nextjs
+Allow admins to create other admins
+Add .gitignore file
+Allow image files to be shown in the file content section
+More visually appealing UI
+Migration to server side tokens due to JWT related concerns
+Allow user signup instead of account creation by admin
+Database connectivity
+Responsiveness using media queries
